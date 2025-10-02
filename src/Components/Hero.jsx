@@ -20,7 +20,8 @@ const Hero = () => {
       />
 
       <motion.h1
-        className="text-3xl sm:text-4xl md:text-6xl font-bold mb-4 leading-tight"
+        className="text-3xl 
+        sm:text-4xl md:text-6xl font-bold mb-4 leading-tight"
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
