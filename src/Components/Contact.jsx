@@ -63,7 +63,7 @@ Here is my message: ${formData.message}`;
   onChange={handleChange}
   className="w-full p-3 rounded-lg border border-gray-300 
              focus:outline-none focus:ring-2 focus:ring-blue-500 
-             placeholder-gray-500"
+             placeholder-gray-500 text-gray-800 "
   required
 />
 
@@ -75,7 +75,7 @@ Here is my message: ${formData.message}`;
   onChange={handleChange}
   className="w-full p-3 rounded-lg border border-gray-300 
              focus:outline-none focus:ring-2 focus:ring-blue-500 
-             placeholder-gray-500"
+             placeholder-gray-500 text-gray-800 "
   required
 />
 

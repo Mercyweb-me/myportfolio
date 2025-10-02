@@ -5,8 +5,8 @@ const projects = [
     title: "Portfolio Website",
     description: "A responsive personal portfolio built with React and TailwindCSS.",
     tech: ["React", "TailwindCSS", "Framer Motion"],
-    link: "https://yourportfolio.com", 
-    github: "https://github.com/yourgithub/portfolio", 
+    link: "https://myportfolio-md4c.vercel.app/", 
+    github: "https://github.com/Mercyweb-me/myportfolio", 
   },
   {
     title: "CONSTRUCTION WEBSITE",
