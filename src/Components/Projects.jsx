@@ -5,22 +5,30 @@ const projects = [
     title: "Portfolio Website",
     description: "A responsive personal portfolio built with React and TailwindCSS.",
     tech: ["React", "TailwindCSS", "Framer Motion"],
-    link: "https://myportfolio-md4c.vercel.app/", 
-    github: "https://github.com/Mercyweb-me/myportfolio", 
+    link: "https://myportfolio-md4c.vercel.app/",
+    github: "https://github.com/Mercyweb-me/myportfolio",
   },
   {
     title: "CONSTRUCTION WEBSITE",
     description: "A Construction website with experienced Engineers.",
-    tech: ["HTML", "TailWindCss", "JavaScript"],
+    tech: ["HTML", "TailWindCSS", "JavaScript"],
     link: "https://mercyweb-me.github.io/HYOSOMAH-NIGERIA-LIMITED/",
     github: "https://github.com/Mercyweb-me/HYOSOMAH-NIGERIA-LIMITED",
   },
   {
     title: "CATERING Website",
-    description: "A frontend website and able to intaract with company .",
-    tech: ["HTML", "TailWindCss", "JavaScript", "Framer Motion"],
+    description: "A frontend catering website with smooth user interaction.",
+    tech: ["HTML", "TailWindCSS", "JavaScript", "Framer Motion"],
     link: "https://mercyweb-me.github.io/RIICHIE-S-DELIGHT-CATERING/",
     github: "https://github.com/Mercyweb-me/RIICHIE-S-DELIGHT-CATERING",
+  },
+  {
+    title: "EDUMANAGER",
+    description:
+      "A full-stack Student and Admin Management app for course and user management.",
+    tech: ["FULL STACK", "HTML", "TailWindCSS", "JavaScript", "Framer Motion"],
+    link: "https://edusocial-mu.vercel.app/",
+    github: "https://github.com/Mercyweb-me/EDUSOCIAL",
   },
 ];
 
@@ -92,4 +100,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
