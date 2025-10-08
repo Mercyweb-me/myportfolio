@@ -1,3 +1,4 @@
+import React from 'react';
 import { Github, Twitter, MessageCircle } from "lucide-react"; 
 
 const footer = () => {
@@ -9,9 +10,6 @@ const footer = () => {
         <h2 className="text-lg font-bold text-white mb-4 md:mb-0">
           MyPortfolio
         </h2>
-
-        
-       
 
         
         <div className="flex space-x-4">

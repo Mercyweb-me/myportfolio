@@ -37,7 +37,7 @@ const App = () => {
         <Contact />
       </section>
 
-      <footer />
+      <footer/>
     </div>
   )
 }

@@ -1,5 +1,4 @@
 import React, { useRef, useState } from 'react'
-
 const Navbar2 = () => {
     const [input, setInput]=useState('');
     const inputRef = useRef(null);
